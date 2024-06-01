@@ -1,0 +1,10 @@
+# Configure flutter_native_splash
+flutter_native_splash:
+  android: true
+  ios: true
+  image: assets/chat_logo.png
+  color: "#FFFFF0"  
+
+  android_12:
+    image: assets/chat_logo.png
+    color: "#FFFFF0" 

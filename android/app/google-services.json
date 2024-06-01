@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739200764374",
+    "project_id": "chat-app-c6b6b",
+    "storage_bucket": "chat-app-c6b6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739200764374:android:b37a67abdbf45197887c77",
+        "android_client_info": {
+          "package_name": "com.openmnc.amit.chatapp.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-nTORHpfl5WhqLYjbqZauc0_TQvE_T08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
